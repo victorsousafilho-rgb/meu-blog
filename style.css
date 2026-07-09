@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montenegrin+Gothic+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --preto: #333333ff;
+    --branco: #d5ccc7ff;
+    --cinza: #a9a29cff;
+    --preto: #28262bff;
+    --título: "Montenegrin Gothic One", serif;
+    --texto:  "Roboto", sans-serif;
+}
